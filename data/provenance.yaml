@@ -1,0 +1,18 @@
+# Where this data comes from and what was done to it.
+
+source:
+  name: EDGAR 2026 Greenhouse Gas Emissions (EDGAR_2026_GHG), country tables
+  publisher: European Commission, Joint Research Centre (JRC)
+  dataset_page: https://edgar.jrc.ec.europa.eu/dataset_ghg2026
+  doi: 10.2905/JRC.2W3HH78  # issued 2026-09-24
+  licence:
+    applied: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), from the dataset page's conditions of use and copyright.txt
+    card: "license: cc-by-4.0"
+    attribution_required: true
+    left_out: fossil CO2 (CC BY-NC-ND 4.0) and the total in CO2eq that includes it
+  citation: >-
+    EDGAR Community GHG Database version EDGAR_2026_GHG (2026) European Commission, JRC (Datasets).
+    doi:10.2905/JRC.2W3HH78
+
+processing:
+  - none: the zips are as served, each checked against the sha256 in MANIFEST.json

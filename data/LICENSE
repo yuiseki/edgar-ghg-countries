@@ -1,0 +1,10 @@
+The contents of data/raw/ are the country tables of EDGAR_2026_GHG, © European
+Union 2026, European Commission, Joint Research Centre (JRC), unchanged.
+
+©European Union 2026, European Commission, Joint Research Centre (JRC), EDGAR (Emissions Database for Global Atmospheric Research) Community GHG database, comprising IEA-EDGAR CO2, EDGAR CH4, EDGAR N2O and EDGAR F-gases version EDGAR_2026_GHG (2026). Unless otherwise noted, all material owned by the European Union is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. This means that reuse is allowed, provided that appropriate credit is given and any changes are indicated.
+
+Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/): reuse is allowed provided appropriate credit is given and
+any changes are indicated. IEA-EDGAR CO2 (fossil CO2), which the publisher licenses under
+CC BY-NC-ND 4.0, and the total in CO2eq that includes it are not included.
+
+The code of the repository this dataset was built from is MIT licensed.
