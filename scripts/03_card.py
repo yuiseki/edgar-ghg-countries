@@ -48,8 +48,6 @@ tags:
 - methane
 - nitrous-oxide
 - f-gases
-size_categories:
-- 100M<n<1B
 ---
 
 # edgar-ghg-countries
